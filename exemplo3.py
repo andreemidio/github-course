@@ -3,6 +3,7 @@
 #Script to study and discussion
 #Write By Andre Emidio
 #email :andresjc2008@gmail.com
+#teste with python logs and github
 
 
 #import library OpenCV, called cv2
